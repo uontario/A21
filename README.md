@@ -4,7 +4,7 @@
 
 https://moodle.uof.ca
 
-🟢 ECN - Études des cultures numériques
+[🟢 ECN - Études des cultures numériques](https://moodle.uof.ca/course/index.php?categoryid=3)
 
 [ECN1001-A21-01 - Introduction aux cultures numériques le Mercredi à 13h00 HNE⏳3h00 (3 crédits)](https://moodle.uof.ca/course/view.php?id=13)
 
