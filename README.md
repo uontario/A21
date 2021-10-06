@@ -8,7 +8,7 @@ https://moodle.uof.ca
 
 - [x] [ECN1001-A21-01 - Introduction aux cultures numériques le Mercredi à 13h00 HNE⏳3h00 (3 crédits)](https://moodle.uof.ca/course/view.php?id=13)
 
-- [x] [ECN1003-A21-01 - Introduction aux technologies numériques le Lundi à 13h00 HNE⏳3h00 (3 crédits)](https://moodle.uof.ca/course/view.php?id=0)
+- [x] [ECN1003-A21-01 - Introduction aux technologies numériques le Lundi à 13h00 HNE⏳3h00 (3 crédits)](https://moodle.uof.ca/course/view.php?id=12)
 
 🟢 EPH - Études de la pluralité humaine
 
