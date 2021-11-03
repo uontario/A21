@@ -4,7 +4,7 @@
 
 https://moodle.uof.ca
 
-[:trillium ECN - Études des cultures numériques](https://moodle.uof.ca/course/index.php?categoryid=3)
+[:shamrock: ECN - Études des cultures numériques](https://moodle.uof.ca/course/index.php?categoryid=3)
 
 - [x] [ECN1001-A21-01 - Introduction aux cultures numériques le Mercredi à 13h00 HNE⏳3h00 (3 crédits)](https://moodle.uof.ca/course/view.php?id=13)
 
@@ -14,7 +14,7 @@ https://moodle.uof.ca
 
 - [x] [EPH1001-A21-01 - Processus et situations de pluralité le Vendredi à 13h00 HNE⏳3h00 (3 crédits)](https://moodle.uof.ca/course/view.php?id=0)
 
-:shamrock: EIS - Études de l’économie et de l’innovation sociale
+[:shamrock: EIS - Études de l’économie et de l’innovation sociale](https://moodle.uof.ca/course/index.php?categoryid=3)
 
 - [x] [EIS1001-A21-01 - Éléments d’économie globale le Mardi à 09h00 HNE⏳3h00 (3 crédits)](https://moodle.uof.ca/course/view.php?id=0)
 
